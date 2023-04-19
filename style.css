@@ -69,14 +69,15 @@ body {
   line-height: 1.7em;
   color: #777777;
   font-weight: normal;
+  font-family: URW Chancery L;
 }
 
 body, input, textarea {
-  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  /*font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;*/
 }
 
 h1,h2,h3,h4,h5,h6, .navigation a, .btn, .filters .filter {
-  font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+ /* font-family: 'Montserrat', Helvetica, Arial, sans-serif;*/
 }
 
 h1,h2,h3,h4,h5,h6 {
